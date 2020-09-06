@@ -7,6 +7,15 @@ Are London winters getting warmer. We are going to check whether the temperature
 
 Thanks to Alan Jones that i could come up with my first data science experiment
 
+## Data Science Experiment 3
+DSC Expt 3 Data cleaning with Pandas Numpy
+
+Proper data cleaning is the “secret” sauce behind machine learning. Better data beats fancier algorithms…
+
+Garbage in = Garbage out. Plain and Simple! Better data beats fancier algorithms…
+
+Thanks to realpython.org that i could get my hands dirty cleaning the data
+
 ## Data Science Experiment 4
 
 Exploratory data analysis for McDonalds Nutrition Menu from Kaggle. Using Magic SQL Seaborn and Matplotlib.

@@ -37,3 +37,13 @@ Label Encoding
 One-Hot Encoding
 
 We will infer the winner by comparing MSE of both the models!!!
+
+## Data Science Experiment 5
+
+#### Professional data scientists usually spend a very large portion of their time on Data Cleaning. Pandas is the definitive library for performing data analysis with Python. In this notebook we will discuss some tips to do data cleaning in a quick and efficient manner
+
+#### We will see the detailed usage of 
+1. DataFrame.loc
+2. DataFrame.value_counts
+
+
